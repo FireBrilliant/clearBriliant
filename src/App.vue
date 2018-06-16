@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-
+      <div>长沙卫康</div>
     <router-view/>
   </div>
 </template>
