@@ -1,0 +1,26 @@
+{
+    "status":"0",
+    "msg":"请求成功",
+    "result":[
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499
+        },
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499
+        },
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499
+        },
+        {
+            "productId":"100001",
+            "productName":"小米6",
+            "productPrice":2499
+        }
+    ]
+}
